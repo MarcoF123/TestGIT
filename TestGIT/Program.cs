@@ -10,8 +10,8 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
-            // un ligne de commentaire
-            Console.WriteLine("hello world");
+            // Juste voila
+            Console.WriteLine("Marc-Olivier Fillion, en personne");
             
         }
     }
